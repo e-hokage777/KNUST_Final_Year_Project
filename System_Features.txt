@@ -1,0 +1,25 @@
++ Student Grade and Performance Prediction
+ - use deomographic and other features as well as current grades to predict future grades
+ - predict final (Wassce) grades from current grade
+ - analyse most important features affecting grades (using model agnostic methods)
+ - tell to what degree those features affect outcome (partial dependecy plot)
+ - tell why a particular students grades are changing so (every semester students would need to update their info), LIME
+ - teachers will do student assessment at the end of term
+ - explainability through model agnostics methods
+ - study features importances for high performing students
+ - study feature importances for poor performing students
+ 
+
++ Future course prediction 
+
++ Finance forecasting
+ - predict when full payment will be made be made by particular student (like percentage of full semester time)
+ - predict probability of student dropping out before paying fees
+ 
+
++ Teacher performance prediction
+ - use features and student overall performance to predict future performance
+
+
+TODO:
++ class and students rating by teacher after class (num_hands_raised, quiz_score, num_disturbed_in_class, num_questions_answered)
