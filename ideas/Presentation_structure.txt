@@ -1,0 +1,17 @@
+- Problem statement (subjective school administration), add scope
+- Evidence of problem
+- Proposed solution (adoption of data-informed decision making framework)
+- Benefits of proposed solution
+
+
+- Methodology of solution
+ - create avenue to encourage DDDM (smart school administrative system)
+ - simply telling administration to change their ways might backfire
+ - bait administration with the eye-catching aspects of the system (easy attendance taking, easy record keeping, auto scheduling etc.)
+ - still add the main features (Data Analyses)
+ - subtly show them the importance of of DDDM school administrative system 
+
+- Smart School Administrative System:
+ - automate tasks to encourage use
+ - give analyses on collected data to draw attention of 
+ - analyses on data collected over time
